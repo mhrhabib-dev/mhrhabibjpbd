@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M H R Habib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **HTML and CSS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **CSS**
 
