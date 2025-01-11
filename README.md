@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **HTML & CSS & JAVASCRIPT**
 
 - 📫 How to reach me **mhrhabib27232@gmail.com**
 
 - ⚡ Fun fact **I thing I'm funny**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
